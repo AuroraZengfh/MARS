@@ -1,0 +1,1535 @@
+[
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3046.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3047.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will upload two illustrations of the book cover. Please scrutinize the illustrations and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. not the same, B. Travel, C. Religion & Spirituality, D. Medical Books]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1345
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1671.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1672.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will display two visuals of the book cover. Please observe the visuals and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Dave Taylor, B. not the same, C. Catalyst Game Labs, D. Natalie Diaz]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 740
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2487.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2488.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will share two graphics of the book cover. Please analyze the graphics and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Kaplan, B. Esther Hicks, C. not the same, D. Lonely Planet]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1100
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3913.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3914.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will present you with two snapshots of the book cover. Please inspect the snapshots and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. DK Publishing, B. Ken Druse, C. not the same, D. Ed Stetzer]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1734
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4253.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4254.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. not the same, B. Ken Druse, C. James Lee Anderson, D. Steven Emanuel]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1889
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3683.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3684.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will display two visuals of the book cover. Please observe the visuals and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. not the same, B. 2015, C. 2017, D. 2016]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1631
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2668.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2669.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will present you with two snapshots of the book cover. Please inspect the snapshots and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Business & Money, B. not the same, C. Travel, D. Children's Books]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1178
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4061.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4062.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will share two graphics of the book cover. Please analyze the graphics and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Teen & Young Adult, B. Computers & Technology, C. Health, Fitness & Dieting, D. not the same]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1802
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2926.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2927.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two images of the book cover. Please examine the images and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Vanessa Miller, B. Brad M. Epstein, C. Richard P. Heitzenrater, D. not the same]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1292
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/112.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/113.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will display two visuals of the book cover. Please observe the visuals and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Inc. BarCharts, B. Sharon A Wynne, C. not the same, D. Kaplan]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 52
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1036.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1037.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will display two visuals of the book cover. Please observe the visuals and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. not the same, B. Philipp Winterberg, C. Lonely Planet, D. Jon Ronson]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 460
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2505.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2506.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will share two graphics of the book cover. Please analyze the graphics and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Teen & Young Adult, B. Engineering & Transportation, C. not the same, D. Medical Books]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1107
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4275.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4276.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will display two visuals of the book cover. Please observe the visuals and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. not the same, B. 2016, C. 2017, D. 2015]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1899
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3767.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3768.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will share two graphics of the book cover. Please analyze the graphics and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2015, B. 2017, C. not the same, D. 2016]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1667
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2460.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2461.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Children's Books, B. Crafts, Hobbies & Home, C. not the same, D. Medical Books]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1089
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4227.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4228.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. James Kavanagh, B. Sally M. Walker, C. not the same, D. William Shakespeare]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1876
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/238.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/239.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will send you two screenshots of the book cover. Please examine the screenshots and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Jane O'Connor, B. not the same, C. Michael Connelly, D. Jack Canfield]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 106
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2367.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2368.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will display two visuals of the book cover. Please observe the visuals and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. not the same, B. 2015, C. 2017, D. 2016]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1048
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1544.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1545.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will share two graphics of the book cover. Please analyze the graphics and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Children's Books, B. Crafts, Hobbies & Home, C. not the same, D. Computers & Technology]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 687
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3516.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3517.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. not the same, B. 2016, C. 2017, D. 2015]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1555
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2240.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2241.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will display two visuals of the book cover. Please observe the visuals and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. not the same, B. 2017, C. 2015, D. 2016]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 993
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3657.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3658.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two images of the book cover. Please examine the images and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2016, B. not the same, C. 2017, D. 2015]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1619
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/632.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/633.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will present you with two snapshots of the book cover. Please inspect the snapshots and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2016, B. 2017, C. 2015, D. not the same]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 279
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3919.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3920.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2017, B. 2016, C. not the same, D. 2015]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1737
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2151.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2152.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2016, B. 2017, C. not the same, D. 2015]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 953
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1862.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1863.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2016, B. 2017, C. 2014, D. not the same]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 825
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3014.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3015.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two depictions of the book cover. Please evaluate the depictions and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Parragon Books, B. not the same, C. Lonely Planet, D. Vanessa Miller]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1330
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1831.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1832.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Health, Fitness & Dieting, B. Children's Books, C. Cookbooks, Food & Wine, D. not the same]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 812
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4319.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4320.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2016, B. 2015, C. not the same, D. 2017]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1918
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1072.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1073.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will present you with two snapshots of the book cover. Please inspect the snapshots and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Travel, B. not the same, C. Health, Fitness & Dieting, D. Computers & Technology]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 477
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3839.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3840.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will upload two illustrations of the book cover. Please scrutinize the illustrations and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. not the same, B. Lonely Planet, C. Fodor's, D. Hayao Miyazaki]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1700
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3200.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3201.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two images of the book cover. Please examine the images and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Christian Books & Bibles, B. Health, Fitness & Dieting, C. Travel, D. not the same]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1413
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/542.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/543.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will upload two illustrations of the book cover. Please scrutinize the illustrations and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. not the same, B. History, C. Children's Books, D. Computers & Technology]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 240
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2310.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2311.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two images of the book cover. Please examine the images and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Mystery, Thriller & Suspense, B. Children's Books, C. Crafts, Hobbies & Home, D. not the same]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1022
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/486.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/487.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will upload two illustrations of the book cover. Please scrutinize the illustrations and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Carol J. Buck MS  CPC  CCS-P, B. Lonely Planet, C. Fodor's, D. not the same]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 214
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/349.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/350.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. not the same, B. Christian Books & Bibles, C. Law, D. Travel]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 154
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4206.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4207.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will present you with two snapshots of the book cover. Please inspect the snapshots and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. not the same, B. Carol J. Buck MS  CPC  CCS-P, C. Mark G. Papich DVM  MS  DACVCP, D. Lonely Planet]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1866
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1736.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1737.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Norman L. Geisler, B. not the same, C. Lonely Planet, D. DK]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 769
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4261.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4262.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. not the same, B. 2016, C. 2015, D. 2017]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1892
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/634.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/635.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will present you with two snapshots of the book cover. Please inspect the snapshots and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2016, B. 2015, C. 2017, D. not the same]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 280
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3524.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3525.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Crafts, Hobbies & Home, B. Travel, C. not the same, D. Cookbooks, Food & Wine]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1559
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1679.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1680.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. not the same, B. Arts & Photography, C. Business & Money, D. Teen & Young Adult]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 744
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2688.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2689.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2016, B. not the same, C. 2015, D. 2017]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1187
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/554.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/555.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will share two graphics of the book cover. Please analyze the graphics and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. not the same, B. Clive Cussler, C. Fodor's, D. William Shakespeare]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 246
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2069.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2070.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will send you two screenshots of the book cover. Please examine the screenshots and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Children's Books, B. Medical Books, C. not the same, D. Christian Books & Bibles]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 915
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2817.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2818.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will share two graphics of the book cover. Please analyze the graphics and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2016, B. not the same, C. 2015, D. 2017]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1245
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3180.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3181.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will send you two screenshots of the book cover. Please examine the screenshots and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2017, B. 2016, C. not the same, D. 2015]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1405
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2735.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2736.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two images of the book cover. Please examine the images and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Crafts, Hobbies & Home, B. Christian Books & Bibles, C. Law, D. not the same]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1208
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/225.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/226.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will upload two illustrations of the book cover. Please scrutinize the illustrations and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2017, B. 2016, C. 2015, D. not the same]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 100
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/501.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/502.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two depictions of the book cover. Please evaluate the depictions and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Giovanni Maciocia CAc(Nanjing), B. not the same, C. James Lee Anderson, D. Jeff Savage]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 221
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3554.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3555.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will present you with two snapshots of the book cover. Please inspect the snapshots and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Religion & Spirituality, B. not the same, C. Travel, D. Literature & Fiction]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1574
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3195.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3196.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two images of the book cover. Please examine the images and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Humor & Entertainment, B. Teen & Young Adult, C. Travel, D. not the same]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1411
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3596.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3597.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will upload two illustrations of the book cover. Please scrutinize the illustrations and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2016, B. not the same, C. 2015, D. 2017]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1593
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/529.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/530.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Travel, B. not the same, C. Children's Books, D. Crafts, Hobbies & Home]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 234
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4338.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4339.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2017, B. not the same, C. 2016, D. 2015]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1927
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4012.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4013.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two images of the book cover. Please examine the images and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. not the same, B. 2015, C. 2016, D. 2017]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1779
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3423.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3424.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will upload two illustrations of the book cover. Please scrutinize the illustrations and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Daniel J. Estes, B. DK Publishing, C. not the same, D. Brad M. Epstein]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1514
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3731.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3732.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Michael H. Hoffheimer, B. Jane O'Connor, C. Lonely Planet, D. not the same]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1652
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2576.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2577.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2017, B. not the same, C. 2015, D. 2016]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1137
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2189.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2190.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will upload two illustrations of the book cover. Please scrutinize the illustrations and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. 2015, B. 2016, C. not the same, D. 2017]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 970
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3078.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3079.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will present you with two snapshots of the book cover. Please inspect the snapshots and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. not the same, B. 2016, C. 2017, D. 2015]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1360
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3229.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3230.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. DK Publishing, B. Scott Kelby, C. Fodor's, D. not the same]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1427
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3775.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3776.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will send you two screenshots of the book cover. Please examine the screenshots and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Business & Money, B. not the same, C. Medical Books, D. Children's Books]."
+            }
+        ],
+        "ground_truth": "A",
+        "extra_info": {
+            "sample_id": 1671
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4221.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/4222.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two depictions of the book cover. Please evaluate the depictions and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Travel, B. not the same, C. Teen & Young Adult, D. Children's Books]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1873
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2296.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2297.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will share two graphics of the book cover. Please analyze the graphics and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Lonely Planet, B. DK, C. Fodor's, D. not the same]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1016
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3530.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3531.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will provide you with two depictions of the book cover. Please evaluate the depictions and answer a question. You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. Ron Chernow, B. Inc. BarCharts, C. Philip M. Parker, D. not the same]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1562
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/967.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/968.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are the following two books published in the same year? Choice list : [A. not the same, B. 2015, C. 2016, D. 2017]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 429
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3861.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3862.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Self-Help, B. Science & Math, C. History, D. not the same]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1711
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2803.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2804.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will give you two pictures of the book cover. Please look at the pictures and answer a question You must choose your answer from the Choice List.  Question: Are the authors of these two books the same? Choice list : [A. not the same, B. Academia Barilla, C. DK Publishing, D. William Shakespeare]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 1239
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2242.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2243.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will present you with two snapshots of the book cover. Please inspect the snapshots and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Crafts, Hobbies & Home, B. Computers & Technology, C. not the same, D. Health, Fitness & Dieting]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 994
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3574.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/3575.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will upload two illustrations of the book cover. Please scrutinize the illustrations and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. not the same, B. Cookbooks, Food & Wine, C. Travel, D. Self-Help]."
+            }
+        ],
+        "ground_truth": "C",
+        "extra_info": {
+            "sample_id": 1582
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2658.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/2659.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. Children's Books, B. not the same, C. History, D. Computers & Technology]."
+            }
+        ],
+        "ground_truth": "D",
+        "extra_info": {
+            "sample_id": 1173
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1964.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/OCR-VQA/full/images/1965.jpg"
+            },
+            {
+                "type": "text",
+                "text": "I will show you two photos of the book cover. Please review the photos and answer a question. You must choose your answer from the Choice List.  Question: Are these two books in the same field? Choice list : [A. not the same, B. Travel, C. Science & Math, D. Humor & Entertainment]."
+            }
+        ],
+        "ground_truth": "B",
+        "extra_info": {
+            "sample_id": 869
+        }
+    }
+]

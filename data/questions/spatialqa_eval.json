@@ -1,0 +1,1442 @@
+[
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783175.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783175.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a person wearing a safety harness connected to the railing above? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783175.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783175.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a person holding an umbrella above the railing? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783295.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783295.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a building with a green roof in the center of the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783295.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783295.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a tree with a green roof in the center of the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783440.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783440.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a large helicopter with multiple spinning rotor blades flying in the sky? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783440.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783440.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a large airplane with fixed wings flying in the sky? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783586.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783586.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a tree in the center of the sandy area? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783586.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783586.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a tree at the edge of the paved area in the lower-left corner of the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783978.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783978.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a tall, white tower-like structure visible at the far end of the bridge? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_783978.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_783978.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a floating balloon visible above the bridge? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_784035.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_784035.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a lighthouse visible in the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_784035.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_784035.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a mountain in front of the lighthouse? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_784101.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_784101.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a building with vertically aligned windows in the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_784101.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_784101.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a building with horizontally aligned windows in the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_784922.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_784922.png"
+            },
+            {
+                "type": "text",
+                "text": "Are there two identical clocks located on the front of the twin towers? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_784922.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_784922.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a giant digital clock located on the front of the twin towers? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_784992.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_784992.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a wristwatch placed on the left side of the transparent platform? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_784992.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_784992.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a wristwatch placed on the right side of the transparent platform? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_786200.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_786200.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a white vehicle parked to the left side of the women on the sidewalk? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_786200.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_786200.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a red vehicle parked to the left side of the women on the sidewalk? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_788147.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_788147.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a yellow front loader positioned in the foreground? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_788147.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_788147.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a green front loader positioned in the foreground? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_789858.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_789858.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a dome with a cross on top visible in the background of the building? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_789858.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_789858.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a skyscraper visible directly behind the dome? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793382.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793382.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a horse positioned in front of a carriage on the wooden pathway? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793382.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793382.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a motorcycle positioned in front of a carriage on the wooden pathway? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793539.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793539.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a person sitting on a bench in front of the bakery? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793539.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793539.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a person lying down on a bench in front of the bakery? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793795.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793795.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a red car next to the sidewalk? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793795.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793795.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a blue car next to the sidewalk? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793814.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793814.png"
+            },
+            {
+                "type": "text",
+                "text": "Are there boats with flags in the foreground? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793814.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793814.png"
+            },
+            {
+                "type": "text",
+                "text": "Are there cars with flags in the foreground? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793908.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793908.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a Christmas tree placed in front of the arch in the background? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_793908.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_793908.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a snowman placed in front of the arch in the background? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_794031.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_794031.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a white sign with black text in the foreground? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_794031.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_794031.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a green sign with red text in the foreground? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_794176.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_794176.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a yellow vintage car driving in the foreground, near the bottom edge of the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_794176.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_794176.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a yellow bicycle riding in the foreground, near the bottom edge of the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_794179.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_794179.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a purple train with a flower pattern in the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence/sa_794179.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/existence_d/sa_794179.png"
+            },
+            {
+                "type": "text",
+                "text": "Is there a green train with a flower pattern in the image? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/1215.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/1215.png"
+            },
+            {
+                "type": "text",
+                "text": "Has the women in gray cloth touched the woman in pink cloth? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/1215.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/1215.png"
+            },
+            {
+                "type": "text",
+                "text": "Is it true: the women in gray cloth has not touched the woman in pink cloth? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/3770.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/3770.png"
+            },
+            {
+                "type": "text",
+                "text": "In real world, is the man on the left side of all others touching the woman in the middle? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/3770.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/3770.png"
+            },
+            {
+                "type": "text",
+                "text": "In real world, is the man on the left side of all others not touching the woman in the middle? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2316816.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2316816.png"
+            },
+            {
+                "type": "text",
+                "text": "Are oranges in the plate on the left side? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2316816.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2316816.png"
+            },
+            {
+                "type": "text",
+                "text": "Are oranges in the plate on the right side? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2330138.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2330138.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the woman holding a knife and fork? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2330138.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2330138.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the woman holding a knife only in her two hands? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2334322.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2334322.png"
+            },
+            {
+                "type": "text",
+                "text": "Has the scissors reached the white object? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2334322.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2334322.png"
+            },
+            {
+                "type": "text",
+                "text": "Is it true: scissors have not reached the white object? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2342195.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2342195.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the baseball in the left hand of the man? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2342195.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2342195.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the baseball in the right hand of the man? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2363180.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2363180.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the hamburg on the red table? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2363180.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2363180.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the hamburg not on the red table? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2363180.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2363180.png"
+            },
+            {
+                "type": "text",
+                "text": "Has the opening door of the bus reached the blue box? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2363180.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2363180.png"
+            },
+            {
+                "type": "text",
+                "text": "Is it true: The opening door of the bus has not reached the blue box? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2380488.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2380488.png"
+            },
+            {
+                "type": "text",
+                "text": "Have the bodies of the two boys come into contact? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2380488.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2380488.png"
+            },
+            {
+                "type": "text",
+                "text": "Is it true: the bodies of the two boys have not come into contact? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2388542.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2388542.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the man holding the motorcycle in his hands? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2388542.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2388542.png"
+            },
+            {
+                "type": "text",
+                "text": "Is it true: the man is not holding the motorcycle in his hands? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2401413.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2401413.png"
+            },
+            {
+                "type": "text",
+                "text": "Has the person closest to the camera reached the white line? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2401413.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2401413.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the person closest to the camera in the white line, instead of reaching it? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2403469.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2403469.png"
+            },
+            {
+                "type": "text",
+                "text": "Has the frisbee left the hands of the man? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/2403469.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/2403469.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the frisbee in the hands of the man? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/berkeley_autolab_ur5_0_6_rgb.png"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/berkeley_autolab_ur5_0_6_rgb.png"
+            },
+            {
+                "type": "text",
+                "text": "Has the gripper touched the rag? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/berkeley_autolab_ur5_0_6_rgb.png"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/berkeley_autolab_ur5_0_6_rgb.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the gripper away from the rag? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n49322.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n49322.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the dog holding the plate in its mouth? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n49322.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n49322.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the dog not making any physical contact with the plate? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n80383.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n80383.png"
+            },
+            {
+                "type": "text",
+                "text": "Has the car and bus crashed with each other? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n80383.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n80383.png"
+            },
+            {
+                "type": "text",
+                "text": "Are the car and bus away from each other? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n194230.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n194230.png"
+            },
+            {
+                "type": "text",
+                "text": "Has the hands of the man touched the banana? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n194230.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n194230.png"
+            },
+            {
+                "type": "text",
+                "text": "Are the hands of the man away from the banana? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n304618.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n304618.png"
+            },
+            {
+                "type": "text",
+                "text": "Have the hands of woman touched the man? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n304618.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n304618.png"
+            },
+            {
+                "type": "text",
+                "text": "Have the hands of woman left the man? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n310739.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n310739.png"
+            },
+            {
+                "type": "text",
+                "text": "Have some of the foods touched the plate? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n310739.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n310739.png"
+            },
+            {
+                "type": "text",
+                "text": "Is it true: none of the foods have touched the plate? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n423026.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n423026.png"
+            },
+            {
+                "type": "text",
+                "text": "Has both hands of the man touched the tennis racket? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n423026.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n423026.png"
+            },
+            {
+                "type": "text",
+                "text": "Are none hands of the man away from the tennis racket? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n486331.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n486331.png"
+            },
+            {
+                "type": "text",
+                "text": "Has the man touched the elephant? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "No"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach/n486331.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/SpatialQA/reach_d/n486331.png"
+            },
+            {
+                "type": "text",
+                "text": "Is the man away from the elephant? The end of your output must be Yes or No."
+            }
+        ],
+        "ground_truth": "Yes"
+    }
+]

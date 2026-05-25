@@ -1,0 +1,3702 @@
+[
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20004.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20005.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20006.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20007.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20008.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20009.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: is there a sidewalk to walk on?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 3334
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1812.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1813.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1814.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1815.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1816.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1817.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images, each from a different camera on a street-view car, your assignment is to answer questions about the scene.  Question: are any cars driving down the street?"
+            }
+        ],
+        "ground_truth": "no",
+        "extra_info": {
+            "sample_id": 302
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5046.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5047.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5048.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5049.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5050.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5051.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: how many yellow trucks are there?"
+            }
+        ],
+        "ground_truth": "three or 3",
+        "extra_info": {
+            "sample_id": 841
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6666.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6667.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6668.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6669.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6670.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6671.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: what's the name on the sideboard near the grey jeep?"
+            }
+        ],
+        "ground_truth": "dunkin donuts",
+        "extra_info": {
+            "sample_id": 1111
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/43602.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/43603.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/43604.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/43605.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/43606.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/43607.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: how many bicycles are parked on the curb underneath the signs?"
+            }
+        ],
+        "ground_truth": "two or 2",
+        "extra_info": {
+            "sample_id": 7267
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1734.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1735.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1736.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1737.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1738.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1739.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six images taken from different cameras on a street view car, your task is to answer questions about the depicted scene.  Question: how many pickup trucks are present?"
+            }
+        ],
+        "ground_truth": "two or 2",
+        "extra_info": {
+            "sample_id": 289
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/4314.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/4315.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/4316.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/4317.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/4318.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/4319.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: whats the color of the stripes on the truck?"
+            }
+        ],
+        "ground_truth": "red",
+        "extra_info": {
+            "sample_id": 719
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9396.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9397.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9398.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9399.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9400.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9401.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: how many blue trucks are present?"
+            }
+        ],
+        "ground_truth": "one or 1",
+        "extra_info": {
+            "sample_id": 1566
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/30624.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/30625.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/30626.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/30627.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/30628.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/30629.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: how many cross walk signs are there in the scene?"
+            }
+        ],
+        "ground_truth": "one or 1",
+        "extra_info": {
+            "sample_id": 5104
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5688.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5689.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5690.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5691.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5692.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5693.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: is this a one or two way street?"
+            }
+        ],
+        "ground_truth": "one way",
+        "extra_info": {
+            "sample_id": 948
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48954.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48955.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48956.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48957.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48958.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48959.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: how many human beings do you see in the following images ?"
+            }
+        ],
+        "ground_truth": "two or 2",
+        "extra_info": {
+            "sample_id": 8159
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12942.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12943.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12944.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12945.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12946.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12947.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: what color is the fence behind the trucks?"
+            }
+        ],
+        "ground_truth": "green",
+        "extra_info": {
+            "sample_id": 2157
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/10392.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/10393.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/10394.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/10395.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/10396.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/10397.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question: what color is the large rectangular sign that is to the left of the white van?"
+            }
+        ],
+        "ground_truth": "red",
+        "extra_info": {
+            "sample_id": 1732
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54366.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54367.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54368.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54369.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54370.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54371.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: is the crosswalk empty?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 9061
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55290.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55291.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55292.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55293.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55294.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55295.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six images taken from different cameras on a street view car, your task is to answer questions about the depicted scene.  Question: is there construction in this setting?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 9215
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19560.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19561.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19562.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19563.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19564.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19565.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six pictures taken from distinct cameras mounted on a street view car, your task is to answer queries about the presented scenario.  Question: what colors are the barricades?"
+            }
+        ],
+        "ground_truth": "orange and white or white and orange",
+        "extra_info": {
+            "sample_id": 3260
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49728.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49729.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49730.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49731.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49732.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49733.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six photographs from multiple cameras on a street-view vehicle, your job is to provide answers to the questions about the scene.  Question: is this an area for commercial trucks?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 8288
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/2562.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/2563.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/2564.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/2565.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/2566.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/2567.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: is van is seen in the image?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 427
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41424.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41425.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41426.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41427.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41428.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41429.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: is there a double yellow line on the road?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 6904
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28692.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28693.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28694.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28695.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28696.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28697.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six photographs from multiple cameras on a street-view vehicle, your job is to provide answers to the questions about the scene.  Question: is the sidewalk well wooded?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 4782
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/31692.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/31693.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/31694.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/31695.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/31696.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/31697.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: is anybody driving a motorcycle?"
+            }
+        ],
+        "ground_truth": "no",
+        "extra_info": {
+            "sample_id": 5282
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46800.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46801.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46802.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46803.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46804.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46805.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images, each from a different camera on a street-view car, your assignment is to answer questions about the scene.  Question: what colour are the traffic lights?"
+            }
+        ],
+        "ground_truth": "green",
+        "extra_info": {
+            "sample_id": 7800
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/15972.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/15973.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/15974.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/15975.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/15976.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/15977.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question:  is the back of the truck open or closed?"
+            }
+        ],
+        "ground_truth": "open",
+        "extra_info": {
+            "sample_id": 2662
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29862.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29863.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29864.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29865.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29866.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29867.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: is there a walking trail?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 4977
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39708.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39709.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39710.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39711.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39712.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39713.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six photographs from multiple cameras on a street-view vehicle, your job is to provide answers to the questions about the scene.  Question: how many directory signs are present?"
+            }
+        ],
+        "ground_truth": "one or 1",
+        "extra_info": {
+            "sample_id": 6618
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6234.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6235.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6236.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6237.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6238.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6239.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: is there anyone in the parking spaces?"
+            }
+        ],
+        "ground_truth": "no",
+        "extra_info": {
+            "sample_id": 1039
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/45954.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/45955.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/45956.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/45957.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/45958.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/45959.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: are you entering or exiting through the gate?"
+            }
+        ],
+        "ground_truth": "entering",
+        "extra_info": {
+            "sample_id": 7659
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39804.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39805.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39806.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39807.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39808.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39809.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: how many tanker truck in the above picture?"
+            }
+        ],
+        "ground_truth": "one or 1",
+        "extra_info": {
+            "sample_id": 6634
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3960.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3961.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3962.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3963.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3964.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3965.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six pictures taken from distinct cameras mounted on a street view car, your task is to answer queries about the presented scenario.  Question: are the stairs red?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 660
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/17148.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/17149.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/17150.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/17151.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/17152.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/17153.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six images taken from different cameras on a street view car, your task is to answer questions about the depicted scene.  Question: is there a stop sign?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 2858
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3834.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3835.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3836.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3837.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3838.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3839.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: what number is on the sign in front of the white building?"
+            }
+        ],
+        "ground_truth": "twenty-one or 21",
+        "extra_info": {
+            "sample_id": 639
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/37494.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/37495.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/37496.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/37497.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/37498.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/37499.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six pictures taken from distinct cameras mounted on a street view car, your task is to answer queries about the presented scenario.  Question: how many pedestrians are on the sidewalks?"
+            }
+        ],
+        "ground_truth": "eight or 8",
+        "extra_info": {
+            "sample_id": 6249
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48438.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48439.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48440.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48441.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48442.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48443.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six pictures taken from distinct cameras mounted on a street view car, your task is to answer queries about the presented scenario.  Question: what color is the trash receptacle?"
+            }
+        ],
+        "ground_truth": "blue or green or teal",
+        "extra_info": {
+            "sample_id": 8073
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46932.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46933.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46934.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46935.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46936.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46937.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given a collection of six images taken from different cameras on a street view car, your task is to respond to the questions about the scenario.  Question: how many trucks are present?"
+            }
+        ],
+        "ground_truth": "one",
+        "extra_info": {
+            "sample_id": 7822
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25284.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25285.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25286.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25287.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25288.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25289.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question: how many doors are on the car in front of the bfd barrier?"
+            }
+        ],
+        "ground_truth": "four or 4",
+        "extra_info": {
+            "sample_id": 4214
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27072.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27073.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27074.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27075.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27076.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27077.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question: is there a green field beside the road?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 4512
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5376.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5377.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5378.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5379.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5380.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5381.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: what color are the traffic cones?"
+            }
+        ],
+        "ground_truth": "orange and white or white and orange",
+        "extra_info": {
+            "sample_id": 896
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/23964.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/23965.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/23966.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/23967.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/23968.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/23969.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: how many cars are parked in the photos?"
+            }
+        ],
+        "ground_truth": "ten or 10",
+        "extra_info": {
+            "sample_id": 3994
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41490.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41491.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41492.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41493.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41494.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41495.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: what is the color of building on right side ?"
+            }
+        ],
+        "ground_truth": "white",
+        "extra_info": {
+            "sample_id": 6915
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20448.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20449.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20450.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20451.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20452.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20453.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: is the curb painted black and white?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 3408
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13680.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13681.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13682.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13683.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13684.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13685.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question: how many trucks are there in the images?"
+            }
+        ],
+        "ground_truth": "zero or 0",
+        "extra_info": {
+            "sample_id": 2280
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54798.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54799.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54800.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54801.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54802.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/54803.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: what is the number that is written inside of a red diamond near the top of the directory sign?"
+            }
+        ],
+        "ground_truth": "one or 1",
+        "extra_info": {
+            "sample_id": 9133
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/50286.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/50287.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/50288.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/50289.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/50290.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/50291.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: is it sunny?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 8381
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19146.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19147.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19148.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19149.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19150.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19151.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: how many entry ways can you see to the glass building?"
+            }
+        ],
+        "ground_truth": "three or 3",
+        "extra_info": {
+            "sample_id": 3191
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49950.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49951.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49952.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49953.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49954.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49955.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: what color is the mans shirt?"
+            }
+        ],
+        "ground_truth": "black",
+        "extra_info": {
+            "sample_id": 8325
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/52386.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/52387.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/52388.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/52389.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/52390.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/52391.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question: what color is the semi truck trailer?"
+            }
+        ],
+        "ground_truth": "orange",
+        "extra_info": {
+            "sample_id": 8731
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33876.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33877.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33878.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33879.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33880.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33881.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: what color is the man's shirt who is closest to the traffic cone?"
+            }
+        ],
+        "ground_truth": "blue",
+        "extra_info": {
+            "sample_id": 5646
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29664.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29665.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29666.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29667.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29668.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/29669.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six pictures taken from distinct cameras mounted on a street view car, your task is to answer queries about the presented scenario.  Question: what is the color of the excavator.?"
+            }
+        ],
+        "ground_truth": "orange",
+        "extra_info": {
+            "sample_id": 4944
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40470.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40471.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40472.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40473.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40474.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40475.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six images taken from different cameras on a street view car, your task is to answer questions about the depicted scene.  Question: how many motorcycles can you see?"
+            }
+        ],
+        "ground_truth": "two or 2",
+        "extra_info": {
+            "sample_id": 6745
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42114.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42115.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42116.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42117.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42118.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42119.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given a collection of six images taken from different cameras on a street view car, your task is to respond to the questions about the scenario.  Question: is there a white semi truck?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 7019
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13122.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13123.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13124.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13125.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13126.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/13127.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six images taken from different cameras on a street view car, your task is to answer questions about the depicted scene.  Question: what two colors are the checkerboard painted part of the road?"
+            }
+        ],
+        "ground_truth": "yellow and black or black and yellow",
+        "extra_info": {
+            "sample_id": 2187
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44112.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44113.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44114.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44115.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44116.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44117.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: what kind of car appears in the first two  images in the top row?"
+            }
+        ],
+        "ground_truth": "suv",
+        "extra_info": {
+            "sample_id": 7352
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/7638.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/7639.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/7640.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/7641.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/7642.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/7643.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six photographs from multiple cameras on a street-view vehicle, your job is to provide answers to the questions about the scene.  Question: the name of the street?"
+            }
+        ],
+        "ground_truth": "one north link",
+        "extra_info": {
+            "sample_id": 1273
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49764.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49765.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49766.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49767.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49768.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/49769.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: what color is the truck?"
+            }
+        ],
+        "ground_truth": "white",
+        "extra_info": {
+            "sample_id": 8294
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42720.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42721.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42722.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42723.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42724.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/42725.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six pictures taken from distinct cameras mounted on a street view car, your task is to answer queries about the presented scenario.  Question: how many arrows do you see on the sign with the p in a box?"
+            }
+        ],
+        "ground_truth": "three or 3",
+        "extra_info": {
+            "sample_id": 7120
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39408.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39409.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39410.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39411.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39412.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/39413.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: what color is the divider wall?"
+            }
+        ],
+        "ground_truth": "white",
+        "extra_info": {
+            "sample_id": 6568
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/16782.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/16783.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/16784.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/16785.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/16786.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/16787.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: what color is the moped?"
+            }
+        ],
+        "ground_truth": "white",
+        "extra_info": {
+            "sample_id": 2797
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1524.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1525.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1526.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1527.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1528.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1529.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: is there a bike lane?"
+            }
+        ],
+        "ground_truth": "no",
+        "extra_info": {
+            "sample_id": 254
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28536.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28537.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28538.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28539.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28540.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28541.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: what colour is the netting?"
+            }
+        ],
+        "ground_truth": "orange",
+        "extra_info": {
+            "sample_id": 4756
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25140.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25141.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25142.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25143.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25144.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25145.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: what area is shown in the pictures?"
+            }
+        ],
+        "ground_truth": "residential",
+        "extra_info": {
+            "sample_id": 4190
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1914.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1915.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1916.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1917.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1918.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1919.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six photographs from multiple cameras on a street-view vehicle, your job is to provide answers to the questions about the scene.  Question: how many people do u see in the photos?"
+            }
+        ],
+        "ground_truth": "twelve or 12",
+        "extra_info": {
+            "sample_id": 319
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55134.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55135.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55136.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55137.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55138.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55139.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: what are the letters on the truck?"
+            }
+        ],
+        "ground_truth": "uasc or (u a s c)",
+        "extra_info": {
+            "sample_id": 9189
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6696.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6697.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6698.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6699.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6700.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6701.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six images taken from different cameras on a street view car, your task is to answer questions about the depicted scene.  Question: is there an entry way visible?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 1116
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20412.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20413.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20414.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20415.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20416.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/20417.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six photographs from multiple cameras on a street-view vehicle, your job is to provide answers to the questions about the scene.  Question: can people be seen in some of the photos?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 3402
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5952.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5953.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5954.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5955.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5956.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/5957.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: how many scooters in the image?"
+            }
+        ],
+        "ground_truth": "zero or 0",
+        "extra_info": {
+            "sample_id": 992
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28398.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28399.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28400.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28401.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28402.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/28403.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: do you see any pedestrian?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 4733
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44352.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44353.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44354.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44355.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44356.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/44357.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images, each from a different camera on a street-view car, your assignment is to answer questions about the scene.  Question: is the sky clear, slightly cloudy, or overcast?"
+            }
+        ],
+        "ground_truth": "overcast",
+        "extra_info": {
+            "sample_id": 7392
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27480.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27481.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27482.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27483.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27484.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27485.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: is there a white bulding?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 4580
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6516.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6517.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6518.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6519.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6520.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6521.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: is it cloudy?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 1086
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6534.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6535.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6536.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6537.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6538.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6539.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question: how many lanes does the road have?"
+            }
+        ],
+        "ground_truth": "two or 2",
+        "extra_info": {
+            "sample_id": 1089
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/57750.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/57751.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/57752.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/57753.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/57754.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/57755.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six pictures taken from distinct cameras mounted on a street view car, your task is to answer queries about the presented scenario.  Question: is this in a mountain?"
+            }
+        ],
+        "ground_truth": "no",
+        "extra_info": {
+            "sample_id": 9625
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19356.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19357.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19358.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19359.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19360.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/19361.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six photographs from multiple cameras on a street-view vehicle, your job is to provide answers to the questions about the scene.  Question: is it partly cloudy?"
+            }
+        ],
+        "ground_truth": "no",
+        "extra_info": {
+            "sample_id": 3226
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12738.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12739.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12740.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12741.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12742.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/12743.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: in the pictures do you see bikes?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 2123
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/53508.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/53509.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/53510.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/53511.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/53512.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/53513.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: is there a marked bike lane on the road?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 8918
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/34560.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/34561.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/34562.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/34563.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/34564.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/34565.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six pictures captured from different angles on a street view car, your duty is to respond accurately to questions about the depicted scene.  Question: what color is the truck?"
+            }
+        ],
+        "ground_truth": "white",
+        "extra_info": {
+            "sample_id": 5760
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33960.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33961.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33962.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33963.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33964.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/33965.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: what color is the building?"
+            }
+        ],
+        "ground_truth": "white",
+        "extra_info": {
+            "sample_id": 5660
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41796.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41797.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41798.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41799.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41800.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/41801.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: behind the truck have a car or a motorcycle?"
+            }
+        ],
+        "ground_truth": "motorcycle",
+        "extra_info": {
+            "sample_id": 6966
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3594.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3595.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3596.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3597.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3598.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3599.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question: what color is the car infront of the bus?"
+            }
+        ],
+        "ground_truth": "red",
+        "extra_info": {
+            "sample_id": 599
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1320.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1321.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1322.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1323.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1324.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/1325.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: what color is the barrier along the scaffolding?"
+            }
+        ],
+        "ground_truth": "blue",
+        "extra_info": {
+            "sample_id": 220
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6276.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6277.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6278.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6279.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6280.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/6281.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given a collection of six images taken from different cameras on a street view car, your task is to respond to the questions about the scenario.  Question: how many women are walking side by side?"
+            }
+        ],
+        "ground_truth": "two or 2",
+        "extra_info": {
+            "sample_id": 1046
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3162.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3163.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3164.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3165.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3166.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/3167.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given a collection of six images taken from different cameras on a street view car, your task is to respond to the questions about the scenario.  Question: how many cars?"
+            }
+        ],
+        "ground_truth": "two or 2",
+        "extra_info": {
+            "sample_id": 527
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/59148.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/59149.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/59150.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/59151.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/59152.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/59153.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: is this an urban setting?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 9858
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/984.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/985.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/986.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/987.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/988.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/989.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: is there construction going on?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 164
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55020.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55021.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55022.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55023.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55024.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55025.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six images taken from different cameras on a street view car, your task is to answer questions about the depicted scene.  Question: what is the building number?"
+            }
+        ],
+        "ground_truth": "nineteen or 19",
+        "extra_info": {
+            "sample_id": 9170
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/21936.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/21937.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/21938.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/21939.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/21940.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/21941.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: is there multiple story buildings?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 3656
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56778.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56779.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56780.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56781.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56782.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56783.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given six images taken from different cameras on a street view car, your task is to answer questions about the depicted scene.  Question: how many people do you see?"
+            }
+        ],
+        "ground_truth": "one or 1",
+        "extra_info": {
+            "sample_id": 9463
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27792.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27793.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27794.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27795.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27796.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/27797.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Presented with six images from various cameras on a street view car, your responsibility is to answer inquiries about the scene.  Question: what color is the board just above the crosswalk?"
+            }
+        ],
+        "ground_truth": "yellow",
+        "extra_info": {
+            "sample_id": 4632
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/882.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/883.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/884.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/885.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/886.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/887.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: what color is the worker's hard hat?"
+            }
+        ],
+        "ground_truth": "white",
+        "extra_info": {
+            "sample_id": 147
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46602.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46603.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46604.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46605.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46606.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/46607.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images, each from a different camera on a street-view car, your assignment is to answer questions about the scene.  Question: how many traffic cones are visible?"
+            }
+        ],
+        "ground_truth": "one or 1",
+        "extra_info": {
+            "sample_id": 7767
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/22200.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/22201.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/22202.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/22203.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/22204.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/22205.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question: what color is the construction netting?"
+            }
+        ],
+        "ground_truth": "orange",
+        "extra_info": {
+            "sample_id": 3700
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56640.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56641.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56642.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56643.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56644.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/56645.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: is there a stop sign on the corner?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 9440
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48780.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48781.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48782.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48783.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48784.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/48785.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six pictures taken from distinct cameras mounted on a street view car, your task is to answer queries about the presented scenario.  Question: what is the shape of the white building?"
+            }
+        ],
+        "ground_truth": "rectangle",
+        "extra_info": {
+            "sample_id": 8130
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25416.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25417.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25418.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25419.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25420.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/25421.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Given a collection of six images taken from different cameras on a street view car, your task is to respond to the questions about the scenario.  Question: how many people are on foot?"
+            }
+        ],
+        "ground_truth": "two or 2",
+        "extra_info": {
+            "sample_id": 4236
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55740.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55741.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55742.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55743.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55744.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/55745.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon viewing six pictures captured from various cameras on a street view vehicle, your role is to answer questions about the presented scene.  Question: is there a visable place to walk not on the road?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 9290
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58620.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58621.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58622.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58623.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58624.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58625.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six photographs from multiple cameras on a street-view vehicle, your job is to provide answers to the questions about the scene.  Question: what color is the sign beneath the stop sign?"
+            }
+        ],
+        "ground_truth": "orange",
+        "extra_info": {
+            "sample_id": 9770
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/35352.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/35353.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/35354.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/35355.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/35356.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/35357.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images from multiple cameras on a street view car provided, your job is to answer questions pertaining to the scene.  Question: what color is the building on the front right besides grey?"
+            }
+        ],
+        "ground_truth": "orange",
+        "extra_info": {
+            "sample_id": 5892
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58626.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58627.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58628.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58629.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58630.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/58631.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: are there any high rise buildings in this area?"
+            }
+        ],
+        "ground_truth": "no",
+        "extra_info": {
+            "sample_id": 9771
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40590.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40591.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40592.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40593.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40594.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40595.jpg"
+            },
+            {
+                "type": "text",
+                "text": "With six images, each from a different camera on a street-view car, your assignment is to answer questions about the scene.  Question: what is the weather in all six of the photos?"
+            }
+        ],
+        "ground_truth": "overcast",
+        "extra_info": {
+            "sample_id": 6765
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9768.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9769.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9770.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9771.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9772.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/9773.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Upon receiving six photographs captured from various cameras on a street-view car, your responsibility is to provide accurate responses to questions about the scene.  Question: do the buildings have many windowpanes?"
+            }
+        ],
+        "ground_truth": "yes",
+        "extra_info": {
+            "sample_id": 1628
+        }
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40428.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40429.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40430.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40431.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40432.jpg"
+            },
+            {
+                "type": "image",
+                "image": "data/images/nuscenes/full/images/40433.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Using six photographs from multiple cameras on a street-view vehicle, your job is to provide answers to the questions about the scene.  Question: how many buses are present?"
+            }
+        ],
+        "ground_truth": "zero or 0",
+        "extra_info": {
+            "sample_id": 6738
+        }
+    }
+]
